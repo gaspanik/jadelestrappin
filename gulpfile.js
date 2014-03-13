@@ -7,9 +7,9 @@ var gulp = require('gulp'),
   connect = require('gulp-connect');
 
 gulp.task('init', function() {
-  gulp.src('bower/bootstrap/less/**')
+  gulp.src('bower/jbootstrap/less/**')
     .pipe(gulp.dest('src/css'))
-    .pipe(gulp.src('bower/bootstrap/fonts/**'))
+    .pipe(gulp.src('bower/jbootstrap/fonts/**'))
     .pipe(gulp.dest('dist/fonts'))
     .pipe(gulp.src('bower/bootstrap-accessibility-plugin/plugins/css/**'))
     .pipe(gulp.dest('dist/css'))

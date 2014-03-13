@@ -16,6 +16,6 @@ Run gulp
 
 	$ npm start
 
-## Changes 0.0.1
+## Changes 0.0.2
 
-* Bootstrap 3 Less ver.
+* Replace Bootstrap 3 to Jbootstrap.

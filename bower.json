@@ -1,6 +1,6 @@
 {
   "name": "Jadelestrappin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "authors": [
     "cipher <gmgateway@gmail.com>"
   ],
@@ -16,7 +16,7 @@
   ],
   "dependencies": {
     "jquery": "*",
-    "bootstrap": "*",
+    "jbootstrap": "https://github.com/gaspanik/jbootstrap/archive/master.zip",
     "bootstrap-accessibility-plugin": "https://github.com/paypal/bootstrap-accessibility-plugin/archive/master.zip"
   }
 }
