@@ -16,6 +16,6 @@ Run gulp
 
 	$ npm start
 
-## Changes 0.0.2
+## Changes 0.0.3
 
-* Replace Bootstrap 3 to Jbootstrap.
+* Minify CSS w/ CSSO.
