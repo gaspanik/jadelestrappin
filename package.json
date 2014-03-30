@@ -1,6 +1,6 @@
 {
   "name": "Jadelestrappin",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Bootstrap 3 + Jade template with gulpjs.",
   "main": "gulpfile.js",
   "scripts": {
@@ -11,6 +11,7 @@
   "author": "Masaaki Komori",
   "license": "MIT",
   "devDependencies": {
+    "marked": "*",
     "gulp-rename": "*",
     "gulp-less": "*",
     "gulp-jade": "*",

@@ -16,6 +16,6 @@ Run gulp
 
 	$ npm start
 
-## Changes 0.0.3
+## Changes 0.0.4
 
-* Minify CSS w/ CSSO.
+* Add Marked.
