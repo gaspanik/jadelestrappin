@@ -16,6 +16,8 @@ Run gulp
 
 	$ npm start
 
-## Changes 0.0.4
+Open http://localhost:1337 w/ your favorite browser.
 
-* Add Marked.
+## Changes 0.0.5
+
+* Minor tweak for gulp-connect@2.x
