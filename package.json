@@ -12,7 +12,7 @@
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "*",
-    "gulp": "*",
+    "gulp": "~3.7.0",
     "gulp-csso": "*",
     "gulp-jade": "*",
     "gulp-less": "*",
