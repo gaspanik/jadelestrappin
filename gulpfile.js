@@ -24,7 +24,8 @@ gulp.task('bs', function() {
     server: {
       baseDir: "./dist"
     },
-            notify: false
+    notify: false,
+    xip: true
   });
 });
 
